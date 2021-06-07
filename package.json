@@ -4,7 +4,7 @@
   "description": "Pruebas automatizadas de Toctoc Home",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
   },
   "keywords": [
     "QA",
@@ -14,6 +14,7 @@
   "author": "Mariela Hurtado",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^7.4.0"
+    "cypress": "^7.4.0",
+    "cypress-xpath": "^1.6.2"
   }
 }
