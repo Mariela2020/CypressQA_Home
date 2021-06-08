@@ -17,3 +17,5 @@ Comuna: Edificio Vicuña MackennaAtelier PratCondominio San Francisco 1879;  7-6
 Comuna: Cumbres de Pingueral;  7-6-2021  18:17:49
 
 Comuna: Cumbres de Pingueral;  7-6-2021  18:19:58
+
+Comuna: Cumbres de Pingueral;  8-6-2021  13:59:16
