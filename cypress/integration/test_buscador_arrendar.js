@@ -11,7 +11,7 @@ describe('TC Buscador-Arrendar', function()
     cy.get('#boxBuscador > .form-control').type('Santiago, Santiago')
     cy.xpath('/html/body/div[3]/section[1]/div/div/div[1]/div[2]/div/div[2]/form/div/div/div[1]/span').click()
 
-    cy.wait(1000)
+    cy.wait(3000)
     cy.get(':nth-child(2) > .lnk-info > .c-infores > .info-body > .region').should('be.visible').and('contain','Santiago')
     cy.get('.lnk-info').invoke('removeAttr', 'target').first().click()
     

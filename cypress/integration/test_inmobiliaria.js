@@ -9,7 +9,8 @@ describe('TC Catalogo Inmobiliaria', function()
 
     cy.get(':nth-child(3) > .dropdown').click()
     
-    cy.xpath('//strong[contains(text(),"Catálogo de Inmobiliarias")]').click()
+   // cy.xpath('//strong[contains(text(),"Catálogo de Inmobiliarias")]').click()
+    cy.xpath('//*[@id="menuscroll"]/li[3]/div/div[1]/ul/li[11]/a/strong').click()
     cy.get('.tt').should('be.visible').and('contain','Inmobiliarias')
     
     cy.get('#searchBoxInput').type('Actual')
@@ -22,7 +23,7 @@ describe('TC Catalogo Inmobiliaria', function()
       });
     })
 
-    cy.get('.sld-item').eq(-5).click()
+    cy.get('.sld-item').eq(-5).click({force:true})
     cy.get('@windowOpen').should('be.called');
     cy.visit(newUrl)
 
