@@ -4,7 +4,7 @@
   "description": "Pruebas automatizadas de Toctoc Home",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run --browser chrome --record --key 6f9b3c26-96f2-432e-841c-1445c90fcc17"
+    "test": "cypress run --browser chrome --config pageLoadTimeout=30000 --record --key 6f9b3c26-96f2-432e-841c-1445c90fcc17"
   },
   "keywords": [
     "QA",
