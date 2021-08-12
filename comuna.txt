@@ -45,3 +45,21 @@ Comuna:  Tomé;  17-6-2021  16:32:22
 Comuna:  Concepción;  22-6-2021  11:5:37
 
 Comuna:  Tomé;  22-6-2021  11:8:21
+
+Comuna:  Chillán;  19-7-2021  13:31:55
+
+Comuna:  Chillán;  19-7-2021  13:43:53
+
+Comuna:  Chillán;  19-7-2021  15:15:43
+
+Comuna:  Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes Las Condes;  20-7-2021  11:29:11
+
+Comuna:  Chillán;  20-7-2021  11:45:22
+
+Comuna:  Chillán;  12-8-2021  10:22:39
+
+Comuna:  Chillán;  12-8-2021  10:28:1
+
+Comuna:  Chillán;  12-8-2021  10:39:10
+
+Comuna:  Chillán;  12-8-2021  10:39:47
